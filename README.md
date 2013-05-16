@@ -3,7 +3,7 @@
 # About
 This module basically just mimics the remi-release rpm.
 
-The following Repos will be setup and enabled by default:
+The following repo will be setup and enabled by default:
 
   * remi
 
@@ -16,6 +16,7 @@ Other repositories that will setup but disabled (as per the remi-release setup)
 # Futher Information
 
 * [remi website](http://rpms.famillecollet.com/)
+* This code base based on code from http://github.com/stahnma/puppet-module-epel
 
 # Testing
 
