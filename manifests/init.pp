@@ -15,6 +15,8 @@
 
 class remi {
 
+  require epel
+
   if $::osfamily == 'RedHat' and $::operatingsystem != 'Fedora' {
 
     yumrepo { 'remi':

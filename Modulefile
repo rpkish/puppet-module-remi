@@ -1,5 +1,5 @@
 name    'ckhall-remi'
-version '0.0.1'
+version '0.0.2'
 dependency 'stahnma/epel', '0.0.3'
 source 'http://github.com/ckhall/puppet-module-remi'
 author 'ckhall'
