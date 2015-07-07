@@ -17,6 +17,7 @@ Other repositories that will setup but disabled (as per the remi-release setup)
 
 * [remi website](http://rpms.famillecollet.com/)
 * This code base based on code from http://github.com/stahnma/puppet-module-epel
+* This code was updated to match modern versions of puppet-module-epel
 
 # Testing
 
